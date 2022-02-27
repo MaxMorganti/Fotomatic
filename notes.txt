@@ -1,0 +1,28 @@
+[X] linked other CSS file
+[X] fixed image links
+[X] fixed background image
+[x] fix margins in sign-up section
+[x] Get pictures smaller
+[X] fix left-alignment of sign-up button
+[x] fixed header
+[x] fix filters area
+[X] fix quote area
+
+[X] dev tools browser size emulator doesn't necessarily work
+[X] tablet/mobile header
+[X] fix features for tablet/mobile
+[X] fix filters for tablet/mobile
+main div is off-center?
+
+------------------------------------------------------------------------------
+fix button positioning/top menu items while in tablet mode/just take width out of ul?
+features section breaks too soon
+
+
+Notes:
+    should keep padding in responsive units...
+    What's the difference between end and flex-end for justify content?
+    different alignments within a flex box...
+
+
+
